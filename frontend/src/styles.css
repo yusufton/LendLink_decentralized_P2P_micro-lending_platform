@@ -1,0 +1,10 @@
+:root { font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; }
+body { margin: 0; background: #0b1020; color: #e8ecff; }
+header { display:flex; align-items:center; justify-content:space-between; padding:16px 24px; background:#0e1530; border-bottom:1px solid #1e2a55; }
+button { background:#4361ee; color:#fff; padding:10px 14px; border:0; border-radius:10px; cursor:pointer; }
+.card { background:#11183a; border:1px solid #1e2a55; padding:16px; border-radius:14px; margin:12px 0; }
+input, select { padding:10px; border-radius:10px; border:1px solid #1e2a55; background:#0b1020; color:#e8ecff; }
+label { display:block; margin:10px 0 6px; }
+.container { max-width: 980px; margin: 0 auto; padding: 24px; }
+.nav a{ color:#9db2ff; margin-right:12px; text-decoration:none; }
+.nav a.active{ color:#fff; font-weight:600; }
